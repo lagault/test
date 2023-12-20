@@ -4,8 +4,7 @@ metadata:
   name: backstage
   description: An example of a Backstage application.
   annotations:
-    dev.azure.com/project-repo: 'Sites web/
-Blog'
+    dev.azure.com/project-repo: 'Sites web/Blog'
 spec:
   type: website
   owner: john@example.com
